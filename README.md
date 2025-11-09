@@ -9,6 +9,12 @@ Electroomagnet:
 Takes Money from pool
 Steal keys from locksmith
 
+Closed Exhibit:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/61441278-858d-4874-831f-181f427f79b4" />
+
+
+
 Garden rooms:
 
 <img width="600" height="600" alt="Screenshot 2025-06-24 124113" src="https://github.com/user-attachments/assets/442ca699-13f0-48b8-83d2-df7fe74251aa" />
@@ -43,11 +49,6 @@ Realm Stuff:
 
 
 
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cc12f16b-c684-42c8-a48b-6c36e011d1a8" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8e547d37-5ee8-4048-9b68-94af5f48bf78" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f0d8d40d-72b8-4581-b90e-ffa531d3b6f8" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/905ea9eb-111e-4d24-8f92-37adc15d8ab1" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/619de739-73cd-4871-bf7e-35fbb4d90d9e" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cb7f9572-a357-48bb-9ec4-20281c9b3a42" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ed94e0f5-8bc5-4841-a8d5-0ba41e8f924b" />
@@ -58,6 +59,14 @@ Realm Stuff:
 
 
 
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cc12f16b-c684-42c8-a48b-6c36e011d1a8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8e547d37-5ee8-4048-9b68-94af5f48bf78" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f0d8d40d-72b8-4581-b90e-ffa531d3b6f8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/905ea9eb-111e-4d24-8f92-37adc15d8ab1" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/905ea9eb-111e-4d24-8f92-37adc15d8ab1" />
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/67245006-ce6e-4968-a2f4-178a5649fc58" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/418ab0c7-e838-4237-98c4-1d734169b1dc" />
