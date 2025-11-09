@@ -14,6 +14,13 @@ Garden rooms:
 <img width="600" height="600" alt="Screenshot 2025-06-24 124113" src="https://github.com/user-attachments/assets/442ca699-13f0-48b8-83d2-df7fe74251aa" />
 
 
+Vault:
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 5 22 52 pm" src="https://github.com/user-attachments/assets/0cd2f843-568a-4126-ab78-40f97deccd96" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 5 22 57 pm" src="https://github.com/user-attachments/assets/776685c3-dbd2-4fba-b17d-45f7175a4493" />
+
+Fake Id?
 
 Freezer:
 Stuff that needs defrosting
