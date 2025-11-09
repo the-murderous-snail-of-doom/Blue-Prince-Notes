@@ -212,6 +212,20 @@ Music Sheets: Stone Letters
 <img width="400" height="400" alt="Screenshot 2025-06-26 180131" src="https://github.com/user-attachments/assets/d5526488-d4cc-4141-8fea-c6dbca1f8d26" />
 
 
+Her Ladyship's Chamber:
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 4 48 47 pm" src="https://github.com/user-attachments/assets/665ddc9e-f970-442e-b8af-cf89b799d683" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 4 48 58 pm" src="https://github.com/user-attachments/assets/31e1f872-48ac-44f6-838c-c323e2d95d98" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 4 49 05 pm" src="https://github.com/user-attachments/assets/4a61a1ff-e558-4d6e-8e2d-607c8d51ded5" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 4 49 16 pm" src="https://github.com/user-attachments/assets/dd7264c4-665e-4840-b660-220573e05177" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 4 49 22 pm" src="https://github.com/user-attachments/assets/8be5896b-e9fe-4973-9b9b-9f414faf4b62" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 4 50 08 pm" src="https://github.com/user-attachments/assets/e03b2d59-6df0-437c-9be8-c95ef0465507" />
+
 Alzara:
 Predction 1:
 
@@ -323,6 +337,80 @@ Only calls Fenn "Grand City of Fenn"
 Is on the side of Fenn, trys to lie and say the king was killed in the war.
 
 A detective borrowed the book, is part of the redguard. 
+
+
+A New Clue:
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 20 09 am" src="https://github.com/user-attachments/assets/de2b5e9f-b19e-4ac9-b087-eab7bd393697" />
+
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 20 39 am" src="https://github.com/user-attachments/assets/de65105e-cd7a-4ff2-b0f0-856c69cc3071" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 21 53 am" src="https://github.com/user-attachments/assets/f8acc1f7-ed17-4ba6-ae56-aaaf96c54034" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 20 13 am" src="https://github.com/user-attachments/assets/c9d2b94d-6779-4c20-9562-36f0a261667c" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 21 46 am" src="https://github.com/user-attachments/assets/d7a657fc-595d-43e3-ab74-7264b8c61a97" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 21 34 am" src="https://github.com/user-attachments/assets/0dc99646-5f35-46bd-b093-27542366ff02" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 21 17 am" src="https://github.com/user-attachments/assets/774a07ab-31c1-4662-a3ec-0b2111070308" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 20 59 am" src="https://github.com/user-attachments/assets/735e3a96-f9bf-4924-b6a6-19bcef589fc3" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 22 13 am" src="https://github.com/user-attachments/assets/d0028d1c-2bca-4b77-9403-b55f4afb2bf3" />
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 21 59 am" src="https://github.com/user-attachments/assets/36674a96-dc97-4f16-a25f-5b016c6d3a50" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 24 41 pm" src="https://github.com/user-attachments/assets/39dd3326-b760-4d2d-a90b-d94fa4e60fce" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 25 01 pm" src="https://github.com/user-attachments/assets/4dcd13ba-c0a5-4556-adaa-0eb387576938" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 25 09 pm" src="https://github.com/user-attachments/assets/272a8359-cb1e-4e95-8780-c306a2c07b28" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 26 13 pm" src="https://github.com/user-attachments/assets/3beefc8f-cea5-414d-86fb-f1487a84b5b4" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 27 04 pm" src="https://github.com/user-attachments/assets/f05b5026-20f4-42fd-b266-65edf962b8e0" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 27 13 pm" src="https://github.com/user-attachments/assets/fb52e41f-9643-4e4b-8848-2bcbfd364e5b" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 27 25 pm" src="https://github.com/user-attachments/assets/b7f421bd-3202-47e5-899e-fd6ccc4335af" />
+
+<img width="1347" height="718" alt="Screenshot 2025-11-07 at 5 27 33 pm" src="https://github.com/user-attachments/assets/44aca83b-d114-41d0-8fa6-3e13e65c7abb" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 28 pm" src="https://github.com/user-attachments/assets/2a35aa3a-8c1b-4c1b-8804-9a316e1be47a" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 32 pm" src="https://github.com/user-attachments/assets/37005511-c558-45b3-8d23-9a0bffeedaf8" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 37 pm" src="https://github.com/user-attachments/assets/937305b4-0d35-4b4b-93f5-c0e5ebe17538" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 42 pm" src="https://github.com/user-attachments/assets/bc4c845b-8b96-4296-9481-df45a5414862" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 47 pm" src="https://github.com/user-attachments/assets/a5fd9134-09a4-417f-8924-f68ae9afd102" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 50 pm" src="https://github.com/user-attachments/assets/e381fdc3-857d-4a0e-9257-a2a9c64345df" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 54 pm" src="https://github.com/user-attachments/assets/01d1aeb8-17d1-4d5d-87cd-85e0df66c7ce" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 28 59 pm" src="https://github.com/user-attachments/assets/682e6949-1182-44cf-93eb-7fa436475484" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 29 14 pm" src="https://github.com/user-attachments/assets/f6c7684e-e044-4295-8ea0-e9fbdb585c3c" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 31 33 pm" src="https://github.com/user-attachments/assets/8b72d547-1d06-4b98-acd7-ca07d94260cf" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 33 39 pm" src="https://github.com/user-attachments/assets/a1fce0d8-062f-4cbd-b746-af579def1ab7" />
+
+<img width="400" height="400" alt="Screenshot 2025-11-07 at 5 33 45 pm" src="https://github.com/user-attachments/assets/209a8691-e865-4ccf-bf25-fe37d7e11223" />
+
+
+Clock Tower:
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 04 57 am" src="https://github.com/user-attachments/assets/0c776c63-7c93-4d92-b5d9-9f0d23c443af" />
+
+
+<img width="500" height="500" alt="Screenshot 2025-11-07 at 11 04 59 am" src="https://github.com/user-attachments/assets/ad80b08b-50f8-4b69-a654-9c5383864942" />
+
+
 
 Music Room:
 
