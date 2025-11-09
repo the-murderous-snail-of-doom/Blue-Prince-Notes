@@ -9,6 +9,69 @@ Electroomagnet:
 Takes Money from pool
 Steal keys from locksmith
 
+Garden rooms:
+
+<img width="600" height="600" alt="Screenshot 2025-06-24 124113" src="https://github.com/user-attachments/assets/442ca699-13f0-48b8-83d2-df7fe74251aa" />
+
+
+
+Freezer:
+Stuff that needs defrosting
+
+<img width="500" height="500" alt="Screenshot 2025-06-24 101717" src="https://github.com/user-attachments/assets/7b7f0276-6879-4f7d-911d-0a1b6dedbf0d" />
+
+
+
+
+Realm Stuff:
+
+<img width="1956" height="1119" alt="image" src="https://github.com/user-attachments/assets/4ebfcc39-26ea-4d16-806c-90bbebe42ec7" />
+<img width="1945" height="1143" alt="image" src="https://github.com/user-attachments/assets/6bedac1b-1ecd-40dc-98e7-b1af1e853ff7" />
+<img width="1952" height="1127" alt="image" src="https://github.com/user-attachments/assets/2321b770-e66d-47df-87ef-44fa70ea11a6" />
+<img width="1939" height="1126" alt="image" src="https://github.com/user-attachments/assets/763ae577-eb75-4393-a71b-c2786fb1fba7" />
+
+
+
+
+
+
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cc12f16b-c684-42c8-a48b-6c36e011d1a8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8e547d37-5ee8-4048-9b68-94af5f48bf78" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f0d8d40d-72b8-4581-b90e-ffa531d3b6f8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/905ea9eb-111e-4d24-8f92-37adc15d8ab1" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/619de739-73cd-4871-bf7e-35fbb4d90d9e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cb7f9572-a357-48bb-9ec4-20281c9b3a42" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ed94e0f5-8bc5-4841-a8d5-0ba41e8f924b" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d5a8df99-e4c6-4ba9-ae0c-ee2bf08509f1" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b1c89a0-76a9-47c0-af22-09d20b4c3a0a" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e465cc87-9b5c-4887-8feb-8d105a8c827d" />
+
+
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/67245006-ce6e-4968-a2f4-178a5649fc58" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/418ab0c7-e838-4237-98c4-1d734169b1dc" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/830f7729-079a-4384-a2b4-4e2219e04fa7" />
+
+
+
+
+
+
+
+
+Heart Orange, Hourglass Purple, Mountain Yellow
+
+Cloister:
+
+<img width="400" height="400" alt="Screenshot 2025-06-27 114019" src="https://github.com/user-attachments/assets/efd26847-0a13-4ede-9025-6421e02dc88d" />
+
+
+
+
 Study:
 
 <img width="647" height="620" alt="Screenshot 2025-06-25 112219" src="https://github.com/user-attachments/assets/f3e9a1fd-00d5-4447-a891-945bd3818982" />
@@ -21,7 +84,26 @@ Study:
 
 Angel Stuff:
 
-<img width="359" height="283" alt="Screenshot 2025-11-09 175842" src="https://github.com/user-attachments/assets/e45f2747-baf9-47d5-b408-f94d6887a639" />
+<img width="400" height="400" alt="Screenshot 2025-11-09 175842" src="https://github.com/user-attachments/assets/e45f2747-baf9-47d5-b408-f94d6887a639" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/16a6ef24-3161-41a5-94b8-c992cc1fc80f" />
+
+Angel/Paragon of Cooking? Joya?
+
+Angel/Paragon of Gardening, Ryanna
+
+Angel/Paragon of Royalty, Orinda
+
+As seen in the chapel:
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/001b5265-e656-433a-91c2-2a3a26a90e69" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9e82d6ac-bd47-4f6f-9d89-23ec02b4c2e8" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7864cf5b-5a3d-4dce-9f49-0d4230d61918" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9d534c6f-e6c8-4908-88b8-a10ec4ecd632" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/77e1e7aa-e891-4120-8a0a-badf4fe63329" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/20217af1-a963-4b67-aba4-e37afaea5986" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3f6748a9-ebde-4816-a7a2-3e9fc86fafd2" />
+
+Orindia, named like the original kingdom, paragon of royalty
 
 
 Underground:
@@ -30,6 +112,7 @@ Underground:
 <img width="500" height="500" alt="Screenshot 2025-06-26 142050" src="https://github.com/user-attachments/assets/03802837-1e0b-46c2-b7dc-fa94bba15143" />
 <img width="700" height="600" alt="Screenshot 2025-06-26 142745" src="https://github.com/user-attachments/assets/6b3220cc-b4ac-4093-beb2-906311b0eecf" />
 <img width="500" height="500" alt="Screenshot 2025-06-26 143254" src="https://github.com/user-attachments/assets/9739624f-8e15-45ca-b13b-e9f525baf57f" />
+<img width="500" height="500" alt="Screenshot 2025-06-26 141947" src="https://github.com/user-attachments/assets/39b9ffd4-3f00-4f63-a849-ce154b17b2e7" />
 
 
 
@@ -46,6 +129,10 @@ Berries gave garage:
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ebf2c95e-2595-464a-afcd-9cc776c01c05" />
 
 <img width="2178" height="1416" alt="image" src="https://github.com/user-attachments/assets/e2547eee-2912-4400-9648-cc2f080a1bfe" />
+
+Root Cellar:
+
+<img width="548" height="632" alt="Screenshot 2025-06-25 172453" src="https://github.com/user-attachments/assets/d373709c-1927-4983-8bdc-935c5f5718c5" />
 
 
 Classrooms:
