@@ -9,6 +9,34 @@ Electroomagnet:
 Takes Money from pool
 Steal keys from locksmith
 
+Study:
+
+<img width="647" height="620" alt="Screenshot 2025-06-25 112219" src="https://github.com/user-attachments/assets/f3e9a1fd-00d5-4447-a891-945bd3818982" />
+<img width="600" height="600" alt="Screenshot 2025-06-25 112236" src="https://github.com/user-attachments/assets/737c24ae-07f6-4297-ae1d-61b6c7ae5f3f" />
+
+
+
+
+
+
+Angel Stuff:
+
+<img width="359" height="283" alt="Screenshot 2025-11-09 175842" src="https://github.com/user-attachments/assets/e45f2747-baf9-47d5-b408-f94d6887a639" />
+
+
+Underground:
+
+<img width="500" height="500" alt="Screenshot 2025-11-09 173138" src="https://github.com/user-attachments/assets/74e39138-c665-499e-b087-5f8209c15158" />
+<img width="500" height="500" alt="Screenshot 2025-06-26 142050" src="https://github.com/user-attachments/assets/03802837-1e0b-46c2-b7dc-fa94bba15143" />
+<img width="700" height="600" alt="Screenshot 2025-06-26 142745" src="https://github.com/user-attachments/assets/6b3220cc-b4ac-4093-beb2-906311b0eecf" />
+<img width="500" height="500" alt="Screenshot 2025-06-26 143254" src="https://github.com/user-attachments/assets/9739624f-8e15-45ca-b13b-e9f525baf57f" />
+
+
+
+
+
+
+
 
 Outer Room:
 
@@ -73,14 +101,28 @@ Music Sheets:
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/c0a9eed8-c82a-49ee-822e-737247598041" />
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/964655df-655a-4dfe-a1cf-b7273a3ac002" />
 <img width="500" height="700" alt="sheet 5" src="https://github.com/user-attachments/assets/47ceaab1-be2f-490d-84c7-09d71bcc8f87" />
+<img width="500" height="500" alt="Screenshot 2025-06-25 110519" src="https://github.com/user-attachments/assets/364795a9-3aba-412b-8388-88ca85481401" />
+<img width="500" height="500" alt="Screenshot 2025-06-25 110538" src="https://github.com/user-attachments/assets/3eab4414-de15-4db5-8e24-895fc31f3cbf" />
+
+
+
 <img width="500" height="700" alt="sheet 8" src="https://github.com/user-attachments/assets/59fc1a45-fffb-4aab-8ceb-6e00fdf604fa" />
 
- First words on the sheets ____ ____ message
+ First words on the sheets are true message
+
+ Find among the white trees under two stones
 
 Music Sheets: Stone Letters
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6972a0cd-05c4-44fe-9e29-32f82ce97917" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7a28bfdc-88a4-49f5-8f4f-ff371687e501" />
+<img width="400" height="400" alt="E" src="https://github.com/user-attachments/assets/6972a0cd-05c4-44fe-9e29-32f82ce97917" />
+<img width="400" height="400" alt="A" src="https://github.com/user-attachments/assets/7a28bfdc-88a4-49f5-8f4f-ff371687e501" />
+<img width="400" height="400" alt="Screenshot 2025-06-25 084917" src="https://github.com/user-attachments/assets/93ec46e7-6509-4817-ab1c-8c48c8a866bf" />
+<img width="400" height="400" alt="Screenshot 2025-06-24 141245" src="https://github.com/user-attachments/assets/168861eb-8c63-4100-aa1e-a3c26e4adfa5" />
+<img width="400" height="400" alt="Screenshot 2025-06-25 205557" src="https://github.com/user-attachments/assets/a0aa7923-b433-4cc0-b09c-c68683bceaac" />
+<img width="400" height="400" alt="Screenshot 2025-06-25 210251" src="https://github.com/user-attachments/assets/6867dac6-3f22-4e06-a289-93c2989c3fb3" />
+<img width="400" height="400" alt="Screenshot 2025-06-25 203405" src="https://github.com/user-attachments/assets/34539529-7ddb-4fa4-a5b8-4ef9f61ecad1" />
+<img width="400" height="400" alt="Screenshot 2025-06-25 145051" src="https://github.com/user-attachments/assets/266df125-f6e3-42f1-9619-1067db1ab72d" />
+<img width="400" height="400" alt="Screenshot 2025-06-26 180131" src="https://github.com/user-attachments/assets/d5526488-d4cc-4141-8fea-c6dbca1f8d26" />
 
 
 Alzara:
