@@ -102,10 +102,13 @@ Angel Stuff:
 
 <img width="400" height="400" alt="Screenshot 2025-11-09 175842" src="https://github.com/user-attachments/assets/e45f2747-baf9-47d5-b408-f94d6887a639" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/16a6ef24-3161-41a5-94b8-c992cc1fc80f" />
+<img width="863" height="1050" alt="image" src="https://github.com/user-attachments/assets/504030df-4613-423e-89a0-0651f0c8c703" />
 
 Angel/Paragon of Cooking? Joya?
 
 Angel/Paragon of Gardening, Ryanna
+
+Angel/Paragon of Death, Draxus
 
 Angel/Paragon of Royalty, Orinda
 
