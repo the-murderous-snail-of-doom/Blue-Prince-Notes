@@ -5,6 +5,9 @@ No keyboards have the letter "I"(capital)
 Blue Memos = True
 Red Memos - False (unless writen by hand)
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c760b926-891a-4268-8672-369ae9203b40" />
+
+
 Electroomagnet: 
 Takes Money from pool
 Steal keys from locksmith
@@ -132,10 +135,46 @@ Underground:
 <img width="700" height="600" alt="Screenshot 2025-06-26 142745" src="https://github.com/user-attachments/assets/6b3220cc-b4ac-4093-beb2-906311b0eecf" />
 <img width="500" height="500" alt="Screenshot 2025-06-26 143254" src="https://github.com/user-attachments/assets/9739624f-8e15-45ca-b13b-e9f525baf57f" />
 <img width="500" height="500" alt="Screenshot 2025-06-26 141947" src="https://github.com/user-attachments/assets/39b9ffd4-3f00-4f63-a849-ce154b17b2e7" />
+<img width="500" height="500 " alt="image" src="https://github.com/user-attachments/assets/99d8aa82-bf47-497c-9f14-1c2563bd2e2d" />
+
+Safehouse:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/52080ba2-fde5-44e5-813f-cb7ce8927ae0" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a9605060-30f0-4c81-9d50-9dc38a45e1eb" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b35a064d-f34e-497d-b41d-20c6929f9525" />
+
+Security?
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/40faee10-ad37-4a9b-b9f7-8eb7c5329f1a" />
+
+The Knight from Alzara.
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/16690250-1d0b-4d88-9c58-0dfe0fd7898b" />
+
+Blue?
+Seek something blue?
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a546121c-7765-44d6-bb95-32508728c2da" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/39cb9161-9931-45d8-8063-9557ba4bd400" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7f9d7ac0-6737-4749-bc88-b48c404ef78f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0060b01c-8ea4-49b7-b6bf-cd6d686c636c" />
+
+Need power hammer
 
 
+Inner Sanctum:
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/26a96ac5-7961-4afc-9af1-0f50f2a759f6" />
 
+Herbet visted the royal museum
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/14f264ea-d4b3-4646-a726-ffc3eed682f7" />
+
+Royal Mueseum
+
+Arch Aries:
+Flag: Yellow
+Transport: Sea?
 
 
 
@@ -163,6 +202,27 @@ Grade 1:
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/40abf093-1118-449b-a1a7-853dd7249fa1" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2e26a30f-e27b-4c33-8b9f-a5b945712f5f" />
 
+Grade 6:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/494e155c-cdf2-42e2-8b56-9c40f79b852e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/869c81df-90a8-46da-98d6-704ffb1918d5" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c85c3acf-914b-49f1-b6f9-3fe10e1ee1ec" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0d0df4cb-05a0-435b-85de-073ce01bb18d" />
+
+slideshow:
+
+<img width="816" height="635" alt="image" src="https://github.com/user-attachments/assets/0b706ddd-6980-4046-aee4-62ccb6cc8fc8" />
+<img width="785" height="606" alt="image" src="https://github.com/user-attachments/assets/b561e711-14e6-4b59-a39f-788aae7bb6aa" />
+<img width="818" height="603" alt="image" src="https://github.com/user-attachments/assets/fb7eeab5-bffc-45c9-a1ea-19f89e52720a" />
+<img width="784" height="614" alt="image" src="https://github.com/user-attachments/assets/2d5dfd55-9b3a-4bae-af93-99d68c3e216d" />
+<img width="810" height="605" alt="image" src="https://github.com/user-attachments/assets/0084b02d-b4de-4c67-9408-be7a57f8bafd" />
+
+Grade 7: Algebra:
+
+<img width="1617" height="1341" alt="image" src="https://github.com/user-attachments/assets/b7dd27a0-a05d-4348-8796-2d463274375d" />
+<img width="1105" height="1365" alt="image" src="https://github.com/user-attachments/assets/beac8592-40bf-43f6-ad88-f2f18082efe3" />
+<img width="1078" height="1345" alt="image" src="https://github.com/user-attachments/assets/2c64198a-aa6e-49d6-bef9-0076bc4e19cd" />
+<img width="1097" height="1363" alt="image" src="https://github.com/user-attachments/assets/c7568bb6-a61c-4694-99ae-b00a301d2783" />
 
 
 
